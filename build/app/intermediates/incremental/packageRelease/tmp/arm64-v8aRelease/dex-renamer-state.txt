@@ -1,0 +1,4 @@
+#Tue Jan 12 18:21:40 IST 2021
+base.0=/home/deepraj/Documents/flutter_projects/Tic Tac Toe/tic_tac_toe/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
